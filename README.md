@@ -18,7 +18,7 @@
 
 
 
-<p>Follow My Social Profiles & Join My Groups To Support Me And Learn More</p>
+<p>Follow My Social Profiles & Join My Groups To Support My Work And Learn More</p>
 <a href="https://www.w3schools.com">
 <img border="0" alt="My_Facebook_Account" src="https://www.facebook.com/images/fb_icon_325x325.png" width="30" height="30">
 </a>
